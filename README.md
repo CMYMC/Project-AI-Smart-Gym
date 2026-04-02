@@ -55,6 +55,9 @@ EMG·IMU 센서 융합 파워리프팅 스쿼트 분석까지 지원하는 파�
 
 ## ⚙️ **주요 기능**
 
+<img width="925" height="372" alt="주요기능" src="https://github.com/user-attachments/assets/0848e3b6-4a80-45a3-b404-adbc8a793dd3" />
+
+
 ### 🔹 운동 분류 모델 (AI)
 - **TCN 기반 동작 분류 모델**
 - 포즈 추정 + 센서 데이터 결합
